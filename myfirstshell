@@ -1,0 +1,4 @@
+git clone https://github.com/flaveragejoe/github-slideshow.git
+cd github-slideshow
+git branch my-slide
+git push --set-upstream origin <BRANCH-NAME>
